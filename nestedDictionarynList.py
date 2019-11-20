@@ -1,4 +1,5 @@
 '''
+#DIctionary Inside dictionary syntax
 scientist = {
     'Lui pastore':{
         'First name': 'Lui',
